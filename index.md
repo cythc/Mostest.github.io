@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -9,7 +8,7 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">light1726.github.io</h1>
+      <h1 class="project-name">SE-Unet.github.io</h1>
       <h2 class="project-tagline"></h2>
       
       
