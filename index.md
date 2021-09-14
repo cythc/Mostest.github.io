@@ -7,15 +7,7 @@
     <link rel="stylesheet" href="/assets/css/style.css?v=e27bf585b9c641a881074e09853cb11204774c97">
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">SE-Unet.github.io</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </section>
 
-    <section class="main-content">
-      <h1 id="-vaenar-tts-variational-auto-encoder-based-non-autoregressive-text-to-speech-synthesis-"><center> VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis </center></h1>
 
 <h2>0. Contents</h2>
 <ol>
