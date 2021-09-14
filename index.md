@@ -3,21 +3,6 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Chenyiting </title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://light1726.github.io/vaenar-tts/" />
-<meta property="og:url" content="https://light1726.github.io/vaenar-tts/" />
-<meta property="og:site_name" content="light1726.github.io" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis" />
-<script type="application/ld+json">
-{"url":"https://light1726.github.io/vaenar-tts/","@type":"WebPage","headline":"VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/assets/css/style.css?v=e27bf585b9c641a881074e09853cb11204774c97">
