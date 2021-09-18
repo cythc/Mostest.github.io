@@ -29,6 +29,8 @@
     <tr>
       <th style="text-align: left">    </th>
       <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
