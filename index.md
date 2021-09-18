@@ -57,8 +57,7 @@
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
-      
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
     </tr>
 </table>
     
@@ -115,7 +114,7 @@
     <tr>
       <th style="text-align: left"><strong>Tacotron2+SE-Unet</strong></th>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_SE_UNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ017-0045_SE_UNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_SE_UNET.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
     
