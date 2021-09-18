@@ -23,8 +23,43 @@
 
 <h3>Below lists the samples that are synthesized via FastSpeech2.</h3>
 
-<p>LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</p>
-
+<table>
+    <tr>
+      <th style="text-align: left">    </th>
+      <td style="text-align: left">LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">LJ049-0213. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>Ground Truth</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
+</table>
 <table>
     <tr>
       <th style="text-align: left">    </th>
@@ -63,6 +98,45 @@
     </tr>
 </table>
 
+    
+<h3>Below lists the samples that are synthesized via Tacotron2.</h3>
+<table>
+    <tr>
+      <th style="text-align: left">    </th>
+      <td style="text-align: left">LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">LJ049-0213. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>Ground Truth</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
+</table>
     
   </body>
 </html>
