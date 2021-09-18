@@ -28,13 +28,15 @@
 <table>
     <tr>
       <th style="text-align: left">    </th>
-      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
-      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
-      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">LJ049-0213. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+      <td style="text-align: left">LJ027-0063. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ027-0063.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
