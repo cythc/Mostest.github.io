@@ -13,10 +13,6 @@
 <ol>
   <li><a href="#abstract">Abstract</a></li>
   <li><a href="#samples-comp">Synthesized samples – Comparison with other models</a></li>
-  <li><a href="#samples-rf">Synthesized samples – Fixed reduction factors</a></li>
-  <li><a href="#samples-mask">synthesized samples – W/ V.S. W/O causality mask</a></li>
-  <li><a href="#alignments">Attention alignemnt convergence dynamics</a></li>
-  <li><a href="#others">Other results</a></li>
 </ol>
 
 <h2>1. Abstract<a name="abstract"></a></h2>
