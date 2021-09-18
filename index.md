@@ -23,21 +23,22 @@
 
 <h3>Below lists the samples that are synthesized for the subjective evaluation.</h3>
 
-<p>LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.</p>
+<p>LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</p>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
+      <th style="text-align: left"><strong>Ground Truth</strong></th>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls="" preload=""></audio></td>
@@ -88,167 +89,6 @@
       <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ005-0100.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ005-0100.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ005-0100.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ006-0206. and publications which in these days would have been made the subject of a criminal prosecution.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ006-0206.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ006-0206.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ006-0206.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ006-0206.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ006-0206.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ007-0177. We trust, however, that the day is at hand when this stain will be removed from the character of the city of London,</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ007-0177.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ007-0177.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ007-0177.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ007-0177.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ007-0177.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ013-0081. Banks and bankers continued to be victimized.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ013-0081.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ013-0081.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ013-0081.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ013-0081.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ013-0081.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ038-0009. When he heard police sirens, he, quote, looked up and saw the man enter the lobby, end quote.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ038-0009.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ038-0009.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ038-0009.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ038-0009.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ038-0009.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ041-0099. Powers believed that when Oswald arrived in Japan he acquired a girlfriend, quote,</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ041-0099.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ041-0099.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ041-0099.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ041-0099.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ041-0099.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ043-0071. His performance for that company was satisfactory.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ043-0071.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ043-0071.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ043-0071.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ043-0071.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ043-0071.wav" controls="" preload=""></audio></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>LJ047-0234. Hosty’s initial reaction on hearing that Oswald was a suspect in the assassination, was, quote, shock</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ047-0234.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ047-0234.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ047-0234.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ047-0234.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ047-0234.wav" controls="" preload=""></audio></td>
     </tr>
   </tbody>
 </table>
