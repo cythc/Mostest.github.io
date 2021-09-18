@@ -30,93 +30,39 @@
       <th style="text-align: left">    </th>
       <td style="text-align: left">LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
       <td style="text-align: left">LJ049-0213. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
-      <td style="text-align: left">LJ027-0063. The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-</table>
-
-<p>LJ049-0213. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.</p>
-
-<table>
-    <tr>
-      <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se-unet\LJ002-0164.wav" controls="" preload=""></audio></td>
-    </tr>
-</table> 
-
-<p>LJ027-0063. For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,</p>
-
-<table>
-    <tr>
-      <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ027-0063.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ027-0063.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
+
     
   </body>
 </html>
