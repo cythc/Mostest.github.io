@@ -21,11 +21,15 @@
 
 <h2>3. Synthesized samples -- Comparison with other models<a name="samples-comp"></a></h2>
 
-<h3>Below lists the samples that are synthesized for the subjective evaluation.</h3>
+<h3>Below lists the samples that are synthesized via FastSpeech2.</h3>
 
 <p>LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</p>
 
 <table>
+    <tr>
+      <th style="text-align: left">    </th>
+      <td style="text-align: left">The provision of more baths was also suggested, and the daily sweeping out of the prison.</td>
+    </tr>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
@@ -52,50 +56,62 @@
     </tr>
 </table>
 
-<p>LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.</p>
+<p>LJ049-0213. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.</p>
 
 <table>
-  <thead>
     <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
+      <th style="text-align: left"><strong>Ground Truth</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ009-0046.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ009-0046.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ009-0046.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ009-0046.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ009-0046.wav" controls="" preload=""></audio></td>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164.wav" controls="" preload=""></audio></td>
     </tr>
-  </tbody>
-</table>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se-unet\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+</table> 
 
-<p>LJ005-0100. For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,</p>
+<p>LJ027-0063. For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,</p>
 
 <table>
-  <thead>
     <tr>
-      <th style="text-align: left"><strong>BVAE-TTS</strong></th>
+      <th style="text-align: left"><strong>Ground Truth</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>Glow-TTS</strong></th>
-      <th style="text-align: left"><strong>Tacotron 2</strong></th>
-      <th style="text-align: left"><strong>VAENAR-TTS (ours)</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ027-0063.wav" controls="" preload=""></audio></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td style="text-align: left"><audio src="wavs\4.BVAE-TTS\LJ005-0100.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ005-0100.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ005-0100.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ005-0100.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ005-0100.wav" controls="" preload=""></audio></td>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ027-0063.wav" controls="" preload=""></audio></td>
     </tr>
-  </tbody>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+    </tr>
 </table>
     
   </body>
