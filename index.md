@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE_Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ027-0063_post.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
