@@ -57,7 +57,7 @@
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="/wavs/FastSpeech2/LJSpeech/SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
       
     </tr>
 </table>
@@ -104,33 +104,18 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
+      <th style="text-align: left"><strong>Tacotron2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213.wav" controls="" preload=""></audio></td>
-    </tr>
-    <tr>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ027-0063.wav" controls="" preload=""></audio></td>
+      <th style="text-align: left"><strong>Tacotron2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_SE_UNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\se_unet\LJ017-0025_SE_UNET.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
     
