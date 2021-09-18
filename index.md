@@ -26,26 +26,30 @@
 <p>LJ002-0164. The provision of more baths was also suggested, and the daily sweeping out of the prison.</p>
 
 <table>
-  <thead>
     <tr>
       <th style="text-align: left"><strong>Ground Truth</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
     </tr>
-  </tbody>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+    </tr>
 </table>
 
 <p>LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.</p>
