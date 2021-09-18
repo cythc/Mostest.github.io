@@ -57,9 +57,11 @@
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE_Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE_Unet\LJ027-0063_post.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ027-0063_post.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
+    
+    
 <table>
     <tr>
       <th style="text-align: left">    </th>
@@ -71,7 +73,7 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandrin\original\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\original\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
@@ -87,7 +89,7 @@
     </tr>
     <tr>
       <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
-      <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\SE_unet\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\SE-unet\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
 
