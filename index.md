@@ -38,10 +38,11 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><audio src="wavs\FastSpeech\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\Ground_Truth\LJ002-0164.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls="" preload=""></audio></td>
     </tr>
   </tbody>
