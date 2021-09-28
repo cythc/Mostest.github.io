@@ -40,22 +40,22 @@
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\original\LJ049-0213.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+Postnet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\postnet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+UNet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+UNet3+</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ002-0164_post.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\unet3\LJ049-0213_post.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+SE-UNet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ002-0164_post.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\LJSpeech\SE-Unet\LJ049-0213_post.wav" controls="" preload=""></audio></td>      
     </tr>
@@ -76,19 +76,19 @@
       <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\original\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+postnet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+Postnet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\postnet\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+UNet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\unet\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+Unet3</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+UNet3+</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\unet3\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>FastSpeech2+SE-Unet</strong></th>
+      <th style="text-align: left"><strong>FastSpeech2+SE-UNet</strong></th>
       <td style="text-align: left"><audio src="wavs\FastSpeech2\Mandarin\SE-unet\corpus1_4423_generated_e2e.wav" controls="" preload=""></audio></td>
     </tr>
 </table>
@@ -106,13 +106,28 @@
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045.wav" controls="" preload=""></audio></td>
     </tr>
-    <tr>
-      <th style="text-align: left"><strong>Tacotron2+postnet</strong></th>
+  <tr>
+      <th style="text-align: left"><strong>Tacotron2</strong></th>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
-      <th style="text-align: left"><strong>Tacotron2+SE-Unet</strong></th>
+      <th style="text-align: left"><strong>Tacotron2+Postnet</strong></th>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+    </tr>
+  <tr>
+      <th style="text-align: left"><strong>Tacotron2+UNet</strong></th>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+    </tr>
+  <tr>
+      <th style="text-align: left"><strong>Tacotron2+UNet3+</strong></th>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><strong>Tacotron2+SE-UNet</strong></th>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_SE_UNET.wav" controls="" preload=""></audio></td>
       <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_SE_UNET.wav" controls="" preload=""></audio></td>
     </tr>
