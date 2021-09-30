@@ -108,23 +108,23 @@
     </tr>
   <tr>
       <th style="text-align: left"><strong>Tacotron2</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-original.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_original.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Tacotron2+Postnet</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-postnet.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_postnet.wav" controls="" preload=""></audio></td>
     </tr>
   <tr>
       <th style="text-align: left"><strong>Tacotron2+UNet</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-unet.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045-unet.wav" controls="" preload=""></audio></td>
     </tr>
   <tr>
       <th style="text-align: left"><strong>Tacotron2+UNet3+</strong></th>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234_POSTNET.wav" controls="" preload=""></audio></td>
-      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045_POSTNET.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ016-0234-unet3.wav" controls="" preload=""></audio></td>
+      <td style="text-align: left"><audio src="wavs\Tacotron\LJSpeech\LJ017-0045-unet3.wav" controls="" preload=""></audio></td>
     </tr>
     <tr>
       <th style="text-align: left"><strong>Tacotron2+SE-UNet</strong></th>
